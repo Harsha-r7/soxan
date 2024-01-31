@@ -1,4 +1,4 @@
-# Soxan
+# VOICE CLASSIFICATION USING ML
 
 > در زبان پارسی به نام سخن
 
